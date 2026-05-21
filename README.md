@@ -13,7 +13,9 @@ Aplicar patrones de diseño reconocidos.
 Modelar la arquitectura física del sistema.
 Simular una solución escalable y modular.
 Documentar técnicamente el sistema de forma profesional.
+
 👥 Diagrama de Casos de Uso UML
+![Diagrama Casos de Uso](imagenes/casos-uso.png.png)
 
 Casos de Uso
 
@@ -24,6 +26,7 @@ Los actores identificados fueron Cliente, Recepcionista y Administrador, cada un
 Se utilizaron relaciones <> para representar funcionalidades obligatorias, como la generación automática de tickets y actualización de pantallas. Asimismo, las relaciones <> permiten modelar comportamientos opcionales, como la repetición de llamados o generación de reportes.
 
 🧩 Diagrama de Clases UML
+![Diagrama de Clases](imagenes/clases.png.jpeg)
 
 Diagrama de Clases
 
@@ -37,6 +40,7 @@ Adaptador Patrón
 El patrón Adapter fue implementado mediante AdaptadorSistemaExterno, permitiendo integrar sistemas legacy externos sin modificar la lógica interna del sistema principal.
 
 🖥️ Diagrama de Implementación UML.
+![Diagrama de Implementacion](imagenes/implementacion.png.png)
 
 Implementación UML
 
